@@ -5,6 +5,10 @@ pca_assignment_solution.html
 *_files/*
 top_1000_prods.tsv
 
+.DS_Store
+
+.ipynb_checkpoints/
+
 # History files
 .Rhistory
 .Rapp.history
