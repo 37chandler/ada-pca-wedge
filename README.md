@@ -1,8 +1,4 @@
-# Applied Data Analytics: Principal Components Analysis
+# Principal Components Analysis: Wedge Data
 
-This repo holds code for principal components analysis.
-
-The main work is in `pca_assignment.Rmd`. Look for questions to answer and 
-code sections asking you to do work. The data is posted on Moodle, since 
-the final data set is somewhat large. 
+This repo holds code to help you understand principal components analysis. The file `Wedge PCA.ipynb` will walk you through the basics of PCA with python. At one point this analysis was an _assignment_ in the class when we did PCA with R. I've moved the solution to that assignment to the folder `r-example` so you could see how this is done in R and see the write-up there. 
 
